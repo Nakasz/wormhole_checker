@@ -14,7 +14,8 @@ npm install wormhole_checker
 
 After installation, you can start using Wormhole Checker in your project by requiring it:
 
-```bashconst wormholeChecker = require('wormhole_checker');
+```bash
+const wormholeChecker = require('wormhole_checker');
 
 // Your code here
 ```
